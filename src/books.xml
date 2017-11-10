@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+	<book>
+		<title>L'univers élégant</title>
+		<cover>http://t2.gstatic.com/images?q=tbn:ANd9GcTJ8gvpt3aPnRA56NTgSb50Kv-fjC2nFzV0aOkeBMvdARAtO3-0</cover>
+	</book>
+	<book>
+		<title>Une brève histoire du temps</title>
+		<cover>http://t2.gstatic.com/images?q=tbn:ANd9GcTkZFrl2j1css_9YMGvHDQ02ILIpfbUC8kr0hSvYWHh5OgYpng6</cover>
+	</book>
+	<book>
+		<title>L'univers chiffoné</title>
+		<cover>http://t2.gstatic.com/images?q=tbn:ANd9GcRorZdAmV_Y2itkAtmLLYEH29GDujXHLAbpTT1kgFk37R3GyFT_</cover>
+	</book>
+</books>
